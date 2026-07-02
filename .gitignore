@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env.local
+.env*.local
+.DS_Store
+*.log
+*.tsbuildinfo
+next-env.d.ts
+
+# v3.0：用户案例与图片（本地存储，不进 git）
+data/
+public/uploads/
